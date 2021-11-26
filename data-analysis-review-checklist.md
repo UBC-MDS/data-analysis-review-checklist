@@ -1,5 +1,7 @@
 ## Data analysis review checklist
 
+### Reviewer: <GITHUB_USERNAME> 
+
 ### Conflict of interest
 
 - [ ] As the reviewer I confirm that I have no conflicts of interest for me to review this work.
