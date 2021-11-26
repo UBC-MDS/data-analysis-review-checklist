@@ -4,7 +4,7 @@
 
 Please carry out your review in this issue by updating the checklist below. If you cannot edit the checklist please:
 1. Make sure you're logged in to your GitHub account
-2. Be sure to accept the invite at this URL: https://github.com/openjournals/jose-reviews/invitations
+2. Be sure to accept the invite at this URL: https://github.com/UBC-MDS/data-analysis-review-2021/invitations
 
 ## Review checklist
 ### Conflict of interest
@@ -42,10 +42,10 @@ Please carry out your review in this issue by updating the checklist below. If y
 
 ### Analysis report
 
-- [ ] **Authors:** Does the `paper.md` file include a list of authors with their affiliations?
+- [ ] **Authors:** Does the report include a list of authors with their affiliations?
 - [ ] **What is the question:** Do the authors clearly state the research question being asked?
 - [ ] **Importance:** Do the authors clearly state the importance for this research question?
-- [ ] **Background**: Do the authors provide sufficient background information so that readers can understand the paper?
+- [ ] **Background**: Do the authors provide sufficient background information so that readers can understand the report?
 - [ ] **Methods:** Do the authors clearly describe and justify the methodology used in the data analysis? Do the authors communicate any assumptions or limitations of their methodologies?
 - [ ] **Results:** Do the authors clearly communicate their findings through writing, tables and figures?
 - [ ] **Conclusions:** Are the conclusions presented by the authors correct? 
