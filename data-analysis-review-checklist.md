@@ -52,7 +52,10 @@ Please carry out your review in this issue by updating the checklist below. If y
 - [ ] **References:** Do all archival references that should have a DOI list one (e.g., papers, datasets, software)?
 - [ ] **Writing quality:** Is the writing of good quality, concise, engaging? 
 
+Estimated hours spent reviewing: 
+
+Review Comments:
 
 #### Attribution
 
-This was derived from the [JOSE review checklist](https://openjournals.readthedocs.io/en/jose/review_checklist.html).
+This was derived from the [JOSE review checklist](https://openjournals.readthedocs.io/en/jose/review_checklist.html) and the ROpenSci review checklist.
