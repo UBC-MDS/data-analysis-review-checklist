@@ -50,3 +50,9 @@ Please carry out your review in this issue by updating the checklist below. If y
 - [ ] **Results:** Do the authors clearly communicate their findings through writing, tables and figures?
 - [ ] **Conclusions:** Are the conclusions presented by the authors correct? 
 - [ ] **References:** Do all archival references that should have a DOI list one (e.g., papers, datasets, software)?
+- [ ] **Writing quality:** Is the writing of good quality, concise, engaging? 
+
+
+#### Attribution
+
+This was derived from the [JOSE review checklist](https://openjournals.readthedocs.io/en/jose/review_checklist.html).
