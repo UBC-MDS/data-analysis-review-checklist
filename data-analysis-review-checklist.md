@@ -1,12 +1,5 @@
 ## Data analysis review checklist
 
-## Reviewer instructions & questions
-
-Please carry out your review in this issue by updating the checklist below. If you cannot edit the checklist please:
-1. Make sure you're logged in to your GitHub account
-2. Be sure to accept the invite at this URL: https://github.com/UBC-MDS/data-analysis-review-2021/invitations
-
-## Review checklist
 ### Conflict of interest
 
 - [ ] As the reviewer I confirm that I have no conflicts of interest for me to review this work.
