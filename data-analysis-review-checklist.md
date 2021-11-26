@@ -45,9 +45,11 @@
 - [ ] **References:** Do all archival references that should have a DOI list one (e.g., papers, datasets, software)?
 - [ ] **Writing quality:** Is the writing of good quality, concise, engaging? 
 
-Estimated hours spent reviewing: 
+### Estimated hours spent reviewing: 
 
-Review Comments:
+### Review Comments: 
+
+Please provide more detailed feedback here on what was done particularly well, and what could be improved. It is especially important to elaborate on items that you were not able to check off in the list above.
 
 #### Attribution
 
