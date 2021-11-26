@@ -31,14 +31,14 @@ Please carry out your review in this issue by updating the checklist below. If y
 - [ ] **Readability:** Are scripts, functions, objects, etc., well named? Is it relatively easy to understand the code?
 - [ ] **Style guidelides:** Does the code adhere to well known language style guides?
 - [ ] **Modularity:** Is the code suitably abstracted into scripts and functions?
-- [ ] **Tests:** Are there automated tests or manual steps described so that the function of the software can be verified?
+- [ ] **Tests:** Are there automated tests or manual steps described so that the function of the software can be verified? Are they of sufficient quality to ensure software robsutness?
 
 ### Reproducibility
  
 - [ ] **Data:** Is the raw data archived somewhere? Is it accessible?
 - [ ] **Computational methods:** Is all the source code required for the data analysis available?
 - [ ] **Conditions:** Is there a record of the necessary conditions (software dependencies) needed to reproduce the analysis? Does there exist an easy way to obtain the computational environment needed to reproduce the analysis?
-- [ ] **Automation:** Can someone other than the authors easily reproduce the data analysis?
+- [ ] **Automation:** Can someone other than the authors easily reproduce the entire data analysis?
 
 ### Analysis report
 
@@ -46,4 +46,7 @@ Please carry out your review in this issue by updating the checklist below. If y
 - [ ] **What is the question:** Do the authors clearly state the research question being asked?
 - [ ] **Importance:** Do the authors clearly state the importance for this research question?
 - [ ] **Background**: Do the authors provide sufficient background information so that readers can understand the paper?
+- [ ] **Methods:** Do the authors clearly describe and justify the methodology used in the data analysis? Do the authors communicate any assumptions or limitations of their methodologies?
+- [ ] **Results:** Do the authors clearly communicate their findings through writing, tables and figures?
+- [ ] **Conclusions:** Are the conclusions presented by the authors correct? 
 - [ ] **References:** Do all archival references that should have a DOI list one (e.g., papers, datasets, software)?
